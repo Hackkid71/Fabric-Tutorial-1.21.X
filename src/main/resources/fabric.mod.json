@@ -21,7 +21,7 @@
 		"fabric-datagen": [
 			"net.will.tutorialmod.TutorialModDataGenerator"
 		],
-		"Client": [
+		"client": [
 			"net.will.tutorialmod.TutorialModClient"
 		]
 	},
